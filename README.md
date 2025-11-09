@@ -35,7 +35,7 @@ To test locally:
 
 ```bash
 git clone <this-repo>
-cd create-rvt
+cd create-rvt-app
 npm install -g .
 ```
 
