@@ -1,4 +1,4 @@
-# create-rvt
+# create-rvt-app
 
 🚀 One-command setup for **React + Vite + Tailwind v4**
 
