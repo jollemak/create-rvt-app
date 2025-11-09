@@ -1,0 +1,22 @@
+{
+  "name": "create-rvt-app",
+  "version": "1.0.0",
+  "description": "Create React + Vite + Tailwind v4 app with one command",
+  "type": "module",
+  "bin": {
+    "create-rvt-app": "./index.js"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "tailwindcss",
+    "cli",
+    "starter"
+  ],
+  "author": "Joel Mäkelä",
+  "license": "MIT"
+}
