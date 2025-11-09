@@ -42,7 +42,7 @@ npm install -g .
 Then run:
 
 ```bash
-create-rvt my-app
+create-rvt-app my-app
 ```
 
 ## License
